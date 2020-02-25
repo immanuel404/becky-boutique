@@ -1,5 +1,5 @@
 # becky-boutique
-Django(Python) built website for becky boutique
+Django(Python) built website _becky boutique
 
 Link to Website: http://beckyboutique.pythonanywhere.com/
 
